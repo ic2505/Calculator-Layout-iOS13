@@ -63,8 +63,8 @@
 				AD0C513822CA22D500AADC4D /* SceneDelegate.swift */,
 				AD0C513A22CA22D500AADC4D /* ViewController.swift */,
 				AD0C515822CA248600AADC4D /* Main.storyboard */,
-				AD0C513F22CA22D800AADC4D /* Assets.xcassets */,
 				AD0C514122CA22D800AADC4D /* LaunchScreen.storyboard */,
+				AD0C513F22CA22D800AADC4D /* Assets.xcassets */,
 				AD0C514422CA22D800AADC4D /* Info.plist */,
 			);
 			path = "Calculator Layout iOS13";
